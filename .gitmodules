@@ -1,0 +1,6 @@
+[submodule "pytorch-CycleGAN-and-pix2pix"]
+	path = pytorch-CycleGAN-and-pix2pix
+	url = https://github.com/MicKr4ne/pytorch-CycleGAN-and-pix2pix.git
+[submodule "RESCAN"]
+	path = RESCAN
+	url = https://github.com/MicKr4ne/RESCAN.git

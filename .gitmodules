@@ -4,3 +4,6 @@
 [submodule "RESCAN"]
 	path = RESCAN
 	url = https://github.com/MicKr4ne/RESCAN.git
+[submodule "Restormer-lt"]
+	path = Restormer-lt
+	url = https://github.com/MicKr4ne/Restormer-lt.git
